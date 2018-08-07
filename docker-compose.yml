@@ -26,8 +26,8 @@ services:
     environment:
       - POSTGRES_PASSWORD=puppetdb
       - POSTGRES_USER=puppetdb
-    ports:
-      - 5432:5432
+    expose:
+      - 5432
     volumes:
       - ./puppetdb-postgres/data:/var/lib/postgresql/data/
 
@@ -48,5 +48,5 @@ services:
   puppetexplorer:
     image: puppet/puppetexplorer
     ports:
-      - 80:80
+      - 8001:80
     read_only: true
