@@ -51,3 +51,11 @@ services:
     ports:
       - 80:80
     read_only: true
+
+  puppet-catalog-diff-viewer:
+    image: camptocamp/puppet-catalog-diff-viewer
+    ports:
+      - 81:80
+    volumes:
+      - ./puppet-catalog-diff-viewer:/data
+
