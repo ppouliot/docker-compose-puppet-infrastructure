@@ -3,3 +3,4 @@ code/environments/
 puppet/
 puppetdb/
 puppetdb-postgres/
+secure

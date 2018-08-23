@@ -10,6 +10,7 @@ services:
     volumes:
       - ./code:/etc/puppetlabs/code/
       - ./puppet/ssl:/etc/puppetlabs/puppet/ssl/
+      - ./secure:/etc/puppetlabs/puppet/secure
       - ./puppet/serverdata:/opt/puppetlabs/server/data/puppetserver/
     # In some cases unqualified hostnames can have the .local suffix
     # added, I've seen this under Docker of Mac Beta for instance.
@@ -48,5 +49,5 @@ services:
   puppetexplorer:
     image: puppet/puppetexplorer
     ports:
-      - 8001:80
+      - 80:80
     read_only: true
