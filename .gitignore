@@ -4,3 +4,4 @@ puppet/
 puppetdb/
 puppetdb-postgres/
 secure
+files/
