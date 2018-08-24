@@ -1,0 +1,5 @@
+:cachedir: '/var/cache/r10k'
+:sources:
+  :puppetfiles:
+    remote: 'git@github.com:ppouliot/puppet-control-rep'
+    basedir: '/etc/puppetlabs/code/environments'

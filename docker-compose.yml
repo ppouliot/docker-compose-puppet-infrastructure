@@ -10,6 +10,7 @@ services:
     volumes:
       - ./code:/etc/puppetlabs/code/
       - ./puppet/ssl:/etc/puppetlabs/puppet/ssl/
+      - ./hiera.conf:/etc/puppetlabs/puppet/hiera.conf
       - ./fileserver.conf:/etc/puppetlabs/puppet/fileserver.conf
       - ./files:/etc/puppetlabs/puppet/files
       - ./secure:/etc/puppetlabs/puppet/secure
