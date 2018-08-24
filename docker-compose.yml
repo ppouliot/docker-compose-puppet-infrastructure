@@ -13,6 +13,7 @@ services:
       - ./hiera.conf:/etc/puppetlabs/puppet/hiera.conf
       - ./fileserver.conf:/etc/puppetlabs/puppet/fileserver.conf
       - ./files:/etc/puppetlabs/puppet/files
+      - ./r10k:/etc/puppetlabs/r10k
       - ./secure:/etc/puppetlabs/puppet/secure
       - ./puppet/serverdata:/opt/puppetlabs/server/data/puppetserver/
     # In some cases unqualified hostnames can have the .local suffix
