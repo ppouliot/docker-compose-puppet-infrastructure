@@ -1,0 +1,262 @@
+a58a42ea73197715b7a375a731fdcf619069c2ba	not-for-merge	'refs/changes/00/429100/1' of https://github.com/openstack/puppet-panko
+2016864645b442b920d92db5ee372c650efc83d7	not-for-merge	'refs/changes/02/384502/1' of https://github.com/openstack/puppet-panko
+694f9214a200be93f9da760f8181bc095a967d10	not-for-merge	'refs/changes/02/504302/1' of https://github.com/openstack/puppet-panko
+e889f3ade77324e6337986f5f17bf851b6d19397	not-for-merge	'refs/changes/02/504302/2' of https://github.com/openstack/puppet-panko
+8bf2eb663c910f0abe4c116e9fb9182797523f7c	not-for-merge	'refs/changes/02/504302/3' of https://github.com/openstack/puppet-panko
+69aea4c7518cf7c95e8ac30f81587ce593548964	not-for-merge	'refs/changes/02/504302/4' of https://github.com/openstack/puppet-panko
+cc60bf485c838ae10ebc25f98ea7d13a89039afc	not-for-merge	'refs/changes/02/507902/1' of https://github.com/openstack/puppet-panko
+f92f708d4c1c2f67ed0da709e0553341dda67432	not-for-merge	'refs/changes/03/557603/1' of https://github.com/openstack/puppet-panko
+5dc7dd3b1a68abbddd4571427b7a08bdd8295eeb	not-for-merge	'refs/changes/05/362305/1' of https://github.com/openstack/puppet-panko
+85b8ed949a8089acdd45d6b1ab1fbc2d2810f080	not-for-merge	'refs/changes/05/362305/10' of https://github.com/openstack/puppet-panko
+9fb27de9e23d1daa5e7c7bcc996a5975adf81ec6	not-for-merge	'refs/changes/05/362305/2' of https://github.com/openstack/puppet-panko
+98cbc0ba28abee17e5cf13ef8485c60e1282f1be	not-for-merge	'refs/changes/05/362305/3' of https://github.com/openstack/puppet-panko
+c2e253920ac69674cf8d14d22bc6b3fbfd5532d4	not-for-merge	'refs/changes/05/362305/4' of https://github.com/openstack/puppet-panko
+e99585ed5174dd4eba650cfd1a5c81c1024376c7	not-for-merge	'refs/changes/05/362305/5' of https://github.com/openstack/puppet-panko
+46bea1939adbc051a496d746ee2d422a965f1a48	not-for-merge	'refs/changes/05/362305/6' of https://github.com/openstack/puppet-panko
+22f57b5e0f65423e7c289f54167a3008b7edfcc3	not-for-merge	'refs/changes/05/362305/7' of https://github.com/openstack/puppet-panko
+3f64bf60e8201d6adfbb6519c7788151144762e6	not-for-merge	'refs/changes/05/362305/8' of https://github.com/openstack/puppet-panko
+420a26e5833a34accdaa9d309cf150c91f8a9857	not-for-merge	'refs/changes/05/362305/9' of https://github.com/openstack/puppet-panko
+0c330d288d8590ba250240fc6d47b0629ea5b332	not-for-merge	'refs/changes/05/546405/1' of https://github.com/openstack/puppet-panko
+518610bd910cb1c507313130a69d4c001d8c6da6	not-for-merge	'refs/changes/06/546406/1' of https://github.com/openstack/puppet-panko
+b884e37f65e0a000eeb5d07a432a2d3fd9423f54	not-for-merge	'refs/changes/07/469907/1' of https://github.com/openstack/puppet-panko
+205983aca71aef0e5d081f2ed001595ff69e710f	not-for-merge	'refs/changes/07/546407/1' of https://github.com/openstack/puppet-panko
+eafc8877c8c6bfeb9256a2feca4936a0f5efa663	not-for-merge	'refs/changes/07/551907/1' of https://github.com/openstack/puppet-panko
+2afae3d823e75e4de28bf11f70ff3e4734dfe98f	not-for-merge	'refs/changes/08/560208/1' of https://github.com/openstack/puppet-panko
+a9085406bd6929c02d78ae584868f49a49b4eb69	not-for-merge	'refs/changes/08/560208/2' of https://github.com/openstack/puppet-panko
+4e98908d6f2b40251509974c34cf2507723161b9	not-for-merge	'refs/changes/09/419209/1' of https://github.com/openstack/puppet-panko
+ebfadf5e6722c60547966dbb4c6d4efe74e213b3	not-for-merge	'refs/changes/09/495709/1' of https://github.com/openstack/puppet-panko
+c4aec4cdce103191d9c29452a1fc2c260efbddc2	not-for-merge	'refs/changes/09/583309/1' of https://github.com/openstack/puppet-panko
+39b374c145279317cc81bf6999aba60e46e70211	not-for-merge	'refs/changes/10/480110/1' of https://github.com/openstack/puppet-panko
+e81a26b1cb1af11829a71342c2e15a0fa6219cc7	not-for-merge	'refs/changes/11/590211/1' of https://github.com/openstack/puppet-panko
+909b40781fa8faa13f1feda841904fa54faf5ff5	not-for-merge	'refs/changes/12/459012/1' of https://github.com/openstack/puppet-panko
+84f1545a17b9baf5e2c21fefeaa0bc193fe60c87	not-for-merge	'refs/changes/12/490012/1' of https://github.com/openstack/puppet-panko
+97f7d2c438ec4a1b73447fb847ec523254c67dd5	not-for-merge	'refs/changes/12/511712/1' of https://github.com/openstack/puppet-panko
+a027cbb53bb5875cbf84b030afbfc3ee807a340b	not-for-merge	'refs/changes/12/511712/2' of https://github.com/openstack/puppet-panko
+455cb5745b3b712fabb053e2e6701d444bb19b26	not-for-merge	'refs/changes/12/519912/1' of https://github.com/openstack/puppet-panko
+c3dbe94420a28cf5519fd8dbf56f1ae40a6c8ed6	not-for-merge	'refs/changes/12/523112/1' of https://github.com/openstack/puppet-panko
+01d3996029effa5fe0cfd7a956edb8abbf0bdf3e	not-for-merge	'refs/changes/13/519913/1' of https://github.com/openstack/puppet-panko
+3e3f5a22808d87810f92f053659cf96fed58dd9a	not-for-merge	'refs/changes/13/556713/1' of https://github.com/openstack/puppet-panko
+7641dbec7dc20d17fad8d48a2aea5f7c28aaeb2a	not-for-merge	'refs/changes/13/557413/1' of https://github.com/openstack/puppet-panko
+05701ba067f5db732d863004a7306bfcd91370d5	not-for-merge	'refs/changes/14/430814/1' of https://github.com/openstack/puppet-panko
+0c440400cd1c61dc6d8b70fc657d1aa2f93fed0c	not-for-merge	'refs/changes/14/504314/1' of https://github.com/openstack/puppet-panko
+2c6a39e3b0a3437ae4fd4acb95bb5c067d8891ea	not-for-merge	'refs/changes/14/504314/2' of https://github.com/openstack/puppet-panko
+45f9467b2fa1e08a84008f9d6aaf25ee2a174910	not-for-merge	'refs/changes/15/430815/1' of https://github.com/openstack/puppet-panko
+f23ed90eec97367831f98d3e5e4052dff08df23a	not-for-merge	'refs/changes/15/530615/1' of https://github.com/openstack/puppet-panko
+dcec33ff9f80db20ee2150945174756acb12348a	not-for-merge	'refs/changes/15/583615/1' of https://github.com/openstack/puppet-panko
+1debc566de7037a726e77d59d78ec757b8b14658	not-for-merge	'refs/changes/16/455516/1' of https://github.com/openstack/puppet-panko
+edd8ddb567549451dad80dfe8dbd3f47be79a748	not-for-merge	'refs/changes/16/496016/1' of https://github.com/openstack/puppet-panko
+8e0f7ce963762bbba2e038d65e5fc2fb9b08de0e	not-for-merge	'refs/changes/16/530616/1' of https://github.com/openstack/puppet-panko
+6a08a1ec17d5df6b78722bd77c8180052ed618ec	not-for-merge	'refs/changes/17/533817/1' of https://github.com/openstack/puppet-panko
+9a92713af2e6a614264a54bf84466f2f0a2add91	not-for-merge	'refs/changes/17/565017/1' of https://github.com/openstack/puppet-panko
+1e5f08147a9da9ccf50821ece905e3e48e450153	not-for-merge	'refs/changes/17/578417/1' of https://github.com/openstack/puppet-panko
+dc89a11778013fcbe40d78d4513e4710da8e23fd	not-for-merge	'refs/changes/18/591718/1' of https://github.com/openstack/puppet-panko
+929b88b8ed4c7185a1831466c1307f0a670d1c1e	not-for-merge	'refs/changes/19/594419/1' of https://github.com/openstack/puppet-panko
+c11e0921ea36fa5ce94a9dd6a5c0aa8990c99272	not-for-merge	'refs/changes/20/434920/1' of https://github.com/openstack/puppet-panko
+e9922a82a78ab9bd8d43d1c7bd5625f85f828fd6	not-for-merge	'refs/changes/20/434920/2' of https://github.com/openstack/puppet-panko
+272f764ce3a54e0d9ae165fb3698b793945ae4b0	not-for-merge	'refs/changes/22/459822/1' of https://github.com/openstack/puppet-panko
+179bf963f2f032ef54c5f9566fd06e38befb57ae	not-for-merge	'refs/changes/24/545924/1' of https://github.com/openstack/puppet-panko
+691fa05fa51b03d634aa8b6ed1f7ebe6679fe891	not-for-merge	'refs/changes/24/559224/1' of https://github.com/openstack/puppet-panko
+163d250e0d61edee071cecf630a108a8c87c1bac	not-for-merge	'refs/changes/24/559224/2' of https://github.com/openstack/puppet-panko
+b2843fba858a6c9f73b03f15024c1ca752ec50eb	not-for-merge	'refs/changes/24/587124/1' of https://github.com/openstack/puppet-panko
+1cf9c3f3c1dc816b79d65dc71f65653d3389b5c9	not-for-merge	'refs/changes/25/379225/1' of https://github.com/openstack/puppet-panko
+ec098f0cc7c523b019b2c9003f1f2f0669559093	not-for-merge	'refs/changes/25/584725/1' of https://github.com/openstack/puppet-panko
+78ef4d1ca4159d1d312b3718624ba87b5b71fd00	not-for-merge	'refs/changes/25/584725/2' of https://github.com/openstack/puppet-panko
+f5a5c6d7471286f1ac0cbd15c66b8bf195bbb660	not-for-merge	'refs/changes/26/499326/1' of https://github.com/openstack/puppet-panko
+b9088700f5e146ee223705bd1cc13c2e3eaa2555	not-for-merge	'refs/changes/26/506926/1' of https://github.com/openstack/puppet-panko
+3cfa3cb30ee4d9a84346d6faac736b410d9de95f	not-for-merge	'refs/changes/26/555126/1' of https://github.com/openstack/puppet-panko
+2c8b0ff58a72548d50f363ef91a1080604fb6b68	not-for-merge	'refs/changes/26/593826/1' of https://github.com/openstack/puppet-panko
+14fc50cafc2a14ab69e1e67b42a76262b09fb349	not-for-merge	'refs/changes/26/593826/2' of https://github.com/openstack/puppet-panko
+0decf9ef694360f6840fc91dee293f43a0dd3d56	not-for-merge	'refs/changes/26/598826/1' of https://github.com/openstack/puppet-panko
+29d75a06117491d83b38f278f08c00774a311e02	not-for-merge	'refs/changes/26/598926/1' of https://github.com/openstack/puppet-panko
+18af2a63a5e5863baae1b7ad72d82a1454f6bc79	not-for-merge	'refs/changes/27/448427/1' of https://github.com/openstack/puppet-panko
+67b46682416e1726b249bbb138a40e1178df3c2c	not-for-merge	'refs/changes/27/593827/1' of https://github.com/openstack/puppet-panko
+1b2fd88485a9504118ada30945e56745c1090ed1	not-for-merge	'refs/changes/27/593827/2' of https://github.com/openstack/puppet-panko
+f6f34f708cc94d01c0b076f0560d792383af5c7b	not-for-merge	'refs/changes/28/391228/1' of https://github.com/openstack/puppet-panko
+1f0e978bc1204e7917ac1e19313abaa4552cc3f7	not-for-merge	'refs/changes/28/538428/1' of https://github.com/openstack/puppet-panko
+8d2c5e9c4169263014e96218a1a470ee331f202a	not-for-merge	'refs/changes/28/593828/1' of https://github.com/openstack/puppet-panko
+c62968132041eaad60e11900e8959d6b4cbfc171	not-for-merge	'refs/changes/29/503929/1' of https://github.com/openstack/puppet-panko
+df317b88bc5d31cc66a3bb9156cb34e9db2df9c2	not-for-merge	'refs/changes/29/560729/1' of https://github.com/openstack/puppet-panko
+15c0e49d404124d02583079df0b6e2c69a71bbb9	not-for-merge	'refs/changes/29/592129/1' of https://github.com/openstack/puppet-panko
+d35e9d89d1baa63c4cb18c39d84483dcef409427	not-for-merge	'refs/changes/29/592729/1' of https://github.com/openstack/puppet-panko
+cb08155b4d8bae03d9130671f036b9e35e06c373	not-for-merge	'refs/changes/29/610229/1' of https://github.com/openstack/puppet-panko
+af20fd151b1706abd8da60f50d9ff806b62e01c5	not-for-merge	'refs/changes/30/505230/1' of https://github.com/openstack/puppet-panko
+468696080321d2d99fd427bc8a518947d9fe3699	not-for-merge	'refs/changes/30/505230/2' of https://github.com/openstack/puppet-panko
+7973c5000c108fddb7394d1f0d4ffd749e6ee90f	not-for-merge	'refs/changes/30/538430/1' of https://github.com/openstack/puppet-panko
+d3647f39b2144a60d6242ea35479fa4fb527292d	not-for-merge	'refs/changes/31/394331/1' of https://github.com/openstack/puppet-panko
+d427258817f3ba9725a2fffbb0ebcddb2e344ebd	not-for-merge	'refs/changes/31/538431/1' of https://github.com/openstack/puppet-panko
+849f8bf944cc1eb32be3a1be0fd791cf87a0c26d	not-for-merge	'refs/changes/32/413432/1' of https://github.com/openstack/puppet-panko
+026182de717701295b903fb63c908e93ab39fa1c	not-for-merge	'refs/changes/32/534532/1' of https://github.com/openstack/puppet-panko
+3e155d7732733eb72f2b82872e15436da93d5ae6	not-for-merge	'refs/changes/34/412934/1' of https://github.com/openstack/puppet-panko
+81f370381b1ec8354db859db297d202976239882	not-for-merge	'refs/changes/34/423834/1' of https://github.com/openstack/puppet-panko
+ec8d64c55ab52775e21555540c427125c7530045	not-for-merge	'refs/changes/34/442834/1' of https://github.com/openstack/puppet-panko
+967ef34c82b1d052e9e34c8ab869045bc13617d0	not-for-merge	'refs/changes/35/380535/1' of https://github.com/openstack/puppet-panko
+46af38edf8ca6cee74090cf366f3670cbe68d1a2	not-for-merge	'refs/changes/35/515935/1' of https://github.com/openstack/puppet-panko
+b8a3aacf624550858ae8881dada6827ee863ec56	not-for-merge	'refs/changes/35/515935/2' of https://github.com/openstack/puppet-panko
+ac96977f87d742a8cc555bd2f33ab71f0639438e	not-for-merge	'refs/changes/36/383536/1' of https://github.com/openstack/puppet-panko
+cdba961654d4a5356ae564c09715bab5d41fff2a	not-for-merge	'refs/changes/36/383536/2' of https://github.com/openstack/puppet-panko
+9ce254dc249fe581d3c77eb9df6b0f4c87a1c6d7	not-for-merge	'refs/changes/36/515236/1' of https://github.com/openstack/puppet-panko
+9675ab2ed2f70b25df1d01c8641e8f2e01bc11d7	not-for-merge	'refs/changes/36/610836/1' of https://github.com/openstack/puppet-panko
+9bb0b75adc8988baa8e2556e6bee0a19d918269c	not-for-merge	'refs/changes/37/403037/1' of https://github.com/openstack/puppet-panko
+dcf68d6345342cad0027af9265f1d1b43b49d32f	not-for-merge	'refs/changes/37/451537/1' of https://github.com/openstack/puppet-panko
+11ad261fa9603308e3f06fdc2fb9e847134ae3de	not-for-merge	'refs/changes/39/360639/1' of https://github.com/openstack/puppet-panko
+741ceb09b9297304b9d5e33a712d7536427f6949	not-for-merge	'refs/changes/39/472439/1' of https://github.com/openstack/puppet-panko
+59033f80cb99c9d6be7b3fa6cf7d8f292a4eb2dd	not-for-merge	'refs/changes/39/608539/1' of https://github.com/openstack/puppet-panko
+ccd83f1f5b14bc915442618049b9a0952a9a8661	not-for-merge	'refs/changes/40/362240/1' of https://github.com/openstack/puppet-panko
+b011174d2ae5260d5947e3769f7bf836ba24f645	not-for-merge	'refs/changes/40/362240/2' of https://github.com/openstack/puppet-panko
+e5bc09663335e26bc06f541974da4357d73e7c56	not-for-merge	'refs/changes/40/443040/1' of https://github.com/openstack/puppet-panko
+03ef564760b80174c4a67800609747b4e78297b1	not-for-merge	'refs/changes/41/362141/1' of https://github.com/openstack/puppet-panko
+80f5b3740ff6879d1263c78129b32208f66c215f	not-for-merge	'refs/changes/41/465641/1' of https://github.com/openstack/puppet-panko
+997be04549775df22823593c2395f977d26b295d	not-for-merge	'refs/changes/41/575641/1' of https://github.com/openstack/puppet-panko
+bef6586f571a6c4cca28805b9125714ea8d98906	not-for-merge	'refs/changes/41/598541/1' of https://github.com/openstack/puppet-panko
+3bd394f90439ee6c6598e02bcf11b4716b54e134	not-for-merge	'refs/changes/41/598741/1' of https://github.com/openstack/puppet-panko
+8afc80091c4805909c8304a39f43630eb2d09352	not-for-merge	'refs/changes/42/512842/1' of https://github.com/openstack/puppet-panko
+b103f77f0e2bef1da7ac5f2a311d62d8d8e9eeb8	not-for-merge	'refs/changes/42/512842/2' of https://github.com/openstack/puppet-panko
+42d38686b95da19874edfdcc1d2b80183d0a6cd5	not-for-merge	'refs/changes/42/515842/1' of https://github.com/openstack/puppet-panko
+807e71cc8822cc964240c09569519be3b6e9cf8d	not-for-merge	'refs/changes/42/598742/1' of https://github.com/openstack/puppet-panko
+754279a47014722a6828dcb5d4ef87df75215524	not-for-merge	'refs/changes/43/483643/1' of https://github.com/openstack/puppet-panko
+103fe96e3d76e72bfa2491034eccc09657fef964	not-for-merge	'refs/changes/44/407944/1' of https://github.com/openstack/puppet-panko
+55c954e74b21790a887e64ce91b4f6f8ac01ee51	not-for-merge	'refs/changes/45/361445/1' of https://github.com/openstack/puppet-panko
+47908f906a4856992b4dbcff8bf6d85bb6efe0aa	not-for-merge	'refs/changes/45/361445/2' of https://github.com/openstack/puppet-panko
+08fba1952f700fd31f175811d416ce6725203bca	not-for-merge	'refs/changes/46/391446/1' of https://github.com/openstack/puppet-panko
+6e1b85557203314c32a5e2d495d3f2a5644f4f91	not-for-merge	'refs/changes/46/462846/1' of https://github.com/openstack/puppet-panko
+020a8e3fe532a4f03afed027412eaf48d7add53a	not-for-merge	'refs/changes/46/462846/2' of https://github.com/openstack/puppet-panko
+281d25f3c9008e70eb0db782d9fb07f4157bc759	not-for-merge	'refs/changes/46/497446/1' of https://github.com/openstack/puppet-panko
+611362ba4dcd463cb271b2f8353fe329e25b5b5a	not-for-merge	'refs/changes/47/441947/1' of https://github.com/openstack/puppet-panko
+475abab586914422af59c4046c4b3ba5500447e6	not-for-merge	'refs/changes/47/510147/1' of https://github.com/openstack/puppet-panko
+86a8ae99924c2ebd833a2a0e644aaf5d379d0868	not-for-merge	'refs/changes/47/570647/1' of https://github.com/openstack/puppet-panko
+73efe50ea6aec3fb15b19af0630edc33b55e9453	not-for-merge	'refs/changes/48/558448/1' of https://github.com/openstack/puppet-panko
+cf41dbc434808987b7ec2cd66190be4fa91d7ccc	not-for-merge	'refs/changes/49/584349/1' of https://github.com/openstack/puppet-panko
+44369746cb5ad430f2d61f8c1e019e1c84289721	not-for-merge	'refs/changes/50/579450/1' of https://github.com/openstack/puppet-panko
+f47e9b17fd6b77b68015d558156cd72af1b400d0	not-for-merge	'refs/changes/50/585450/1' of https://github.com/openstack/puppet-panko
+c78f262830ffd2fbf37cc0bd86b64a8a895f8aaa	not-for-merge	'refs/changes/51/471551/1' of https://github.com/openstack/puppet-panko
+9bc219e141472c7614629f2eca1d7c7deb048022	not-for-merge	'refs/changes/51/471551/2' of https://github.com/openstack/puppet-panko
+b33c63233286c8bb4be73f8da9d7fc7ef944a4a9	not-for-merge	'refs/changes/51/471551/3' of https://github.com/openstack/puppet-panko
+9a4393bfd4eea3bff6a9fb0a5b73af3351bcdb6f	not-for-merge	'refs/changes/51/487251/1' of https://github.com/openstack/puppet-panko
+deeda951c8e5a57487e54016216b0e22540298e8	not-for-merge	'refs/changes/51/573551/1' of https://github.com/openstack/puppet-panko
+f694808b0cbe9c3b366bf3b9ca6b0bfe4d830479	not-for-merge	'refs/changes/51/602851/1' of https://github.com/openstack/puppet-panko
+040db163b4274cca2087e7f4d8a9caa9438e9274	not-for-merge	'refs/changes/51/602851/2' of https://github.com/openstack/puppet-panko
+ebd7e650ba08443219d8e18873756a50ab32a5cf	not-for-merge	'refs/changes/52/391252/1' of https://github.com/openstack/puppet-panko
+a24211e73e3b2d9492d5bfd1598f63033d1ce987	not-for-merge	'refs/changes/52/467052/1' of https://github.com/openstack/puppet-panko
+e8c54f73523647cb7b708401127e1c4f0b948bbf	not-for-merge	'refs/changes/53/562653/1' of https://github.com/openstack/puppet-panko
+c00400b6a27cfdd768c8a7705e647a08c8b64063	not-for-merge	'refs/changes/54/383954/1' of https://github.com/openstack/puppet-panko
+03f82512a5c10f983d22dd98d9bbb13a97335c07	not-for-merge	'refs/changes/54/383954/2' of https://github.com/openstack/puppet-panko
+cf78fa6c089b536fa01b49ba73b2b5efe5ae9904	not-for-merge	'refs/changes/54/414054/1' of https://github.com/openstack/puppet-panko
+a1d5348e2f5c3b007f106075a629c9cbe911f8c5	not-for-merge	'refs/changes/54/448954/1' of https://github.com/openstack/puppet-panko
+ebf8d26a41e5cccb02a75b1e550d35362244a670	not-for-merge	'refs/changes/54/533554/1' of https://github.com/openstack/puppet-panko
+584456e4000c99c97353455def76a69a3e24e5a0	not-for-merge	'refs/changes/54/582854/1' of https://github.com/openstack/puppet-panko
+78530fd9f0112ac302b4fbdf3e3235e343bc7a1f	not-for-merge	'refs/changes/55/420255/1' of https://github.com/openstack/puppet-panko
+e1d94cd58542e8666f5abb98f00e509594d826a6	not-for-merge	'refs/changes/55/551755/1' of https://github.com/openstack/puppet-panko
+97071b4a3da7131bb54de8452c451e343064c607	not-for-merge	'refs/changes/55/553155/1' of https://github.com/openstack/puppet-panko
+ef82c16b92a4b5b8d7efc9b443f69a837cfa96fe	not-for-merge	'refs/changes/56/409656/1' of https://github.com/openstack/puppet-panko
+f611f2e521e5388c34d4ff9cbb4b879b583c901e	not-for-merge	'refs/changes/56/409656/2' of https://github.com/openstack/puppet-panko
+b7d7a2ee4a90227b1e78087f5ffac8da320d06f9	not-for-merge	'refs/changes/57/407857/1' of https://github.com/openstack/puppet-panko
+7e48371ebf1d0b93150fb885f9dfad1543f843d4	not-for-merge	'refs/changes/57/407857/2' of https://github.com/openstack/puppet-panko
+40e5a1d8032e3c3820ea7faacf27e9630ebd3e67	not-for-merge	'refs/changes/57/451457/1' of https://github.com/openstack/puppet-panko
+cb9029628e57155e75d61626a6ca06de9b564496	not-for-merge	'refs/changes/57/451457/2' of https://github.com/openstack/puppet-panko
+5db76aae39b4a66353e4a208d706d2ca12f7409f	not-for-merge	'refs/changes/57/451457/3' of https://github.com/openstack/puppet-panko
+1bb0c7aba4901135315f8f6b3e239d765890693a	not-for-merge	'refs/changes/57/567757/1' of https://github.com/openstack/puppet-panko
+7bf014b1115f724d874fe8bcfb67651ae3ec72d9	not-for-merge	'refs/changes/58/467858/1' of https://github.com/openstack/puppet-panko
+459f1b08c7023d883c0fadc4f2155aef091d877e	not-for-merge	'refs/changes/58/556358/1' of https://github.com/openstack/puppet-panko
+2fb99be3176e98298711f4df60369e73a3ac6230	not-for-merge	'refs/changes/58/556358/2' of https://github.com/openstack/puppet-panko
+a84f000b53c713b22cbb0a79817ec645c41284fa	not-for-merge	'refs/changes/62/415362/1' of https://github.com/openstack/puppet-panko
+03a03e336420de48d376ece3d0385a9271a5541d	not-for-merge	'refs/changes/63/489063/1' of https://github.com/openstack/puppet-panko
+ca7ec25299998aefd526f88cbecaaf41c52a87f3	not-for-merge	'refs/changes/64/392364/1' of https://github.com/openstack/puppet-panko
+d69d644f4ecdbb258f1ce626ef0f67ad1e0882c8	not-for-merge	'refs/changes/64/392364/2' of https://github.com/openstack/puppet-panko
+ff0c94f731f368b0d0720cffe98d8a6804f62c3b	not-for-merge	'refs/changes/64/435764/1' of https://github.com/openstack/puppet-panko
+f1ad491ef0608f62cfe271d4bb07477f0bbaac08	not-for-merge	'refs/changes/64/483764/1' of https://github.com/openstack/puppet-panko
+6efe1905da8613aa941e8492ae456a567c611991	not-for-merge	'refs/changes/64/491064/1' of https://github.com/openstack/puppet-panko
+06d1f5eb1ce1d02c118806c49ccd091284cef3be	not-for-merge	'refs/changes/64/598864/1' of https://github.com/openstack/puppet-panko
+62acf862128c7af49a6eb1861736b16472483781	not-for-merge	'refs/changes/65/505965/1' of https://github.com/openstack/puppet-panko
+aa3a4b0c587ed748e47250221da0aaeb3f252d4a	not-for-merge	'refs/changes/66/457866/1' of https://github.com/openstack/puppet-panko
+3b9cd459cea2fd7e49e2bc35e263792ed0859321	not-for-merge	'refs/changes/66/457866/2' of https://github.com/openstack/puppet-panko
+904cbeb501c73bab06b4aef577bbb3eac42389aa	not-for-merge	'refs/changes/67/534567/1' of https://github.com/openstack/puppet-panko
+1390359fd5ba084db1b317f74ce667964e2b6c5b	not-for-merge	'refs/changes/67/534567/2' of https://github.com/openstack/puppet-panko
+02ee0b4f2aa54f1fa71c5a9c7f7d3e12097f0515	not-for-merge	'refs/changes/68/444868/1' of https://github.com/openstack/puppet-panko
+9dab6bb4b01d33034ded5b09f982a0a9f566ec6b	not-for-merge	'refs/changes/68/497368/1' of https://github.com/openstack/puppet-panko
+51b30afe1d7579fc79edd97832e18015fc7ffbff	not-for-merge	'refs/changes/68/540968/1' of https://github.com/openstack/puppet-panko
+c7eebdb1c367bd1f9fe77317f3d47ba727835300	not-for-merge	'refs/changes/68/591768/1' of https://github.com/openstack/puppet-panko
+c8c86a53382c24ebfffd45a3c2ddec4e9cede0c8	not-for-merge	'refs/changes/69/497369/1' of https://github.com/openstack/puppet-panko
+02bb0e5bda2916224d9eb35d4f26c00f647935ee	not-for-merge	'refs/changes/69/571069/1' of https://github.com/openstack/puppet-panko
+3e1308686b805ea20ecb4e9a64f4a3dd1d65e4cc	not-for-merge	'refs/changes/69/586769/1' of https://github.com/openstack/puppet-panko
+ebbbb9de0d7748ee7d98dbb701cb9a73a0ca7064	not-for-merge	'refs/changes/70/409570/1' of https://github.com/openstack/puppet-panko
+d1c102677350be9aa79111595639584644f4bfc6	not-for-merge	'refs/changes/70/497370/1' of https://github.com/openstack/puppet-panko
+963baaeb89a936349628eb7decac43f2f9172bb8	not-for-merge	'refs/changes/70/514070/1' of https://github.com/openstack/puppet-panko
+598cfac0a3b2d953403c06951ff8065fde291f6b	not-for-merge	'refs/changes/71/529771/1' of https://github.com/openstack/puppet-panko
+7335c050ec04e6a83f62b33b4b90c425edba3f23	not-for-merge	'refs/changes/72/479572/1' of https://github.com/openstack/puppet-panko
+908a6633e81893d8a37071fdaf6fdfb8413475a0	not-for-merge	'refs/changes/72/483572/1' of https://github.com/openstack/puppet-panko
+97ef25e3e7a39a80e657b66969c34918aeca9a2b	not-for-merge	'refs/changes/72/510072/1' of https://github.com/openstack/puppet-panko
+b246e4115d3da8155599c194e69c8637663b72e6	not-for-merge	'refs/changes/72/585472/1' of https://github.com/openstack/puppet-panko
+3b1b5b49575c5cde5afcb09a0b4c0be631726de7	not-for-merge	'refs/changes/73/451473/1' of https://github.com/openstack/puppet-panko
+58cde82a38d65c842d2bfd4b7d52e3168efb69be	not-for-merge	'refs/changes/73/451473/2' of https://github.com/openstack/puppet-panko
+8fce80d927de4ba0f2980ca381782cdd2298e3f0	not-for-merge	'refs/changes/73/451473/3' of https://github.com/openstack/puppet-panko
+29de8e9cc964aced3268d63d5807e05f44970ab2	not-for-merge	'refs/changes/73/451473/4' of https://github.com/openstack/puppet-panko
+cb727ddd9c1d570be985611249739f08c408bf29	not-for-merge	'refs/changes/73/532673/1' of https://github.com/openstack/puppet-panko
+94967a303528d8eff1d1121444208806ffcd23d5	not-for-merge	'refs/changes/74/459374/1' of https://github.com/openstack/puppet-panko
+cfd9d68decaf6bf078c17ccd09e2bbf071732efd	not-for-merge	'refs/changes/74/554774/1' of https://github.com/openstack/puppet-panko
+3d0fec29375151afee3e5cb1a08b748e5383d5c7	not-for-merge	'refs/changes/75/427175/1' of https://github.com/openstack/puppet-panko
+465af9c9f677f2e72f9b5b0b749d4001d244c4b2	not-for-merge	'refs/changes/75/453775/1' of https://github.com/openstack/puppet-panko
+ae02d117bbcb55dea410bc9d5ccf2feeb7001fb0	not-for-merge	'refs/changes/75/539575/1' of https://github.com/openstack/puppet-panko
+061d1541fe7c87792c503e1e0e075fdbf622a593	not-for-merge	'refs/changes/75/596775/1' of https://github.com/openstack/puppet-panko
+b2438262accf2c79848b8af2bf5714e1a8579d59	not-for-merge	'refs/changes/78/497578/1' of https://github.com/openstack/puppet-panko
+598a89a778ab35e7a3171ab441c4bc50492334d8	not-for-merge	'refs/changes/78/497578/2' of https://github.com/openstack/puppet-panko
+6b22194b775a0010b2aba2620d6ff3cde8773578	not-for-merge	'refs/changes/79/485679/1' of https://github.com/openstack/puppet-panko
+89fedc815b72268505c9ac8ce016f93045ac847e	not-for-merge	'refs/changes/82/369682/1' of https://github.com/openstack/puppet-panko
+0e3fe9a95b9ac1c906e53225387e55e3452c5752	not-for-merge	'refs/changes/82/369682/2' of https://github.com/openstack/puppet-panko
+38b1fbc84664b74cbecc6c7e390b0c5175553214	not-for-merge	'refs/changes/82/369682/3' of https://github.com/openstack/puppet-panko
+1e06d73d6a96063670791dfefee3d708150faee3	not-for-merge	'refs/changes/83/472083/1' of https://github.com/openstack/puppet-panko
+647656df9c95828cfbe34f8a3ef89fddb8aa28fd	not-for-merge	'refs/changes/83/549683/1' of https://github.com/openstack/puppet-panko
+f6b81e557d54ddf575e6cc1464e8f56f96a1780f	not-for-merge	'refs/changes/83/562483/1' of https://github.com/openstack/puppet-panko
+5074da0d7d7eb32cd96436709b9a6708a430ac2e	not-for-merge	'refs/changes/84/473284/1' of https://github.com/openstack/puppet-panko
+d0fff85a613fbe21a2b1e5ad34d1ff7a6d8536d9	not-for-merge	'refs/changes/84/607784/1' of https://github.com/openstack/puppet-panko
+545ba969735a0b450de4ce7feba8ff45cb224f1a	not-for-merge	'refs/changes/84/607784/2' of https://github.com/openstack/puppet-panko
+5b3caa884122be7bb4b247618d2ab846d381961c	not-for-merge	'refs/changes/85/572485/1' of https://github.com/openstack/puppet-panko
+be88cfb239d1cf87511a579d5c3955ec87016d85	not-for-merge	'refs/changes/85/598285/1' of https://github.com/openstack/puppet-panko
+4aa494c358b071cd447e8c011c1667d013db35d7	not-for-merge	'refs/changes/86/548486/1' of https://github.com/openstack/puppet-panko
+e33ffea816b742d77af2cbeba532a77a582c9668	not-for-merge	'refs/changes/86/551186/1' of https://github.com/openstack/puppet-panko
+b57a505d4dbe836d115a0e0b60877e85fe6d7a91	not-for-merge	'refs/changes/87/609887/1' of https://github.com/openstack/puppet-panko
+1a29b3ba3b655beed3cdbbd3d5bbfb448e470c16	not-for-merge	'refs/changes/88/444988/1' of https://github.com/openstack/puppet-panko
+994de29dfa22aa18578d4efe7ca56b255073928c	not-for-merge	'refs/changes/88/609888/1' of https://github.com/openstack/puppet-panko
+3c4a06063ecc0eade83b46434faee6c9adf54908	not-for-merge	'refs/changes/90/597090/1' of https://github.com/openstack/puppet-panko
+aaa6019e74abe599ecf3950a3c33943b831d5f33	not-for-merge	'refs/changes/91/539591/1' of https://github.com/openstack/puppet-panko
+adbc523b54b98deabc55b8bc62b4ed2419c0dfce	not-for-merge	'refs/changes/91/539591/2' of https://github.com/openstack/puppet-panko
+54de0d59e5ea120791b23b630084714f1c40159c	not-for-merge	'refs/changes/91/539591/3' of https://github.com/openstack/puppet-panko
+ff16a2a73922b9f67230f682d8f09d1e56a07079	not-for-merge	'refs/changes/92/487092/1' of https://github.com/openstack/puppet-panko
+e874b8889e482f4cc51f5ec22c29df70d6ba6480	not-for-merge	'refs/changes/92/523592/1' of https://github.com/openstack/puppet-panko
+29d6a8e4da44f3eeb4db7ef60197e2d01745a6eb	not-for-merge	'refs/changes/92/524292/1' of https://github.com/openstack/puppet-panko
+0294e40753eb6c2c16bd0905a5b027e6b959749d	not-for-merge	'refs/changes/92/534092/1' of https://github.com/openstack/puppet-panko
+411eb061ab3eb92cafd9fb10ff711d2cb3b93fd6	not-for-merge	'refs/changes/92/534492/1' of https://github.com/openstack/puppet-panko
+8d0f7c24679db515b444f2380f80393c0a15fd71	not-for-merge	'refs/changes/92/598792/1' of https://github.com/openstack/puppet-panko
+1563b1b550dd79de0e19a6fa6a9a88334cf1ed13	not-for-merge	'refs/changes/93/548293/1' of https://github.com/openstack/puppet-panko
+7e7d4b5d3e7ad22fa6a6c8fe3522caec7431f1a4	not-for-merge	'refs/changes/93/548293/2' of https://github.com/openstack/puppet-panko
+4a890fc2f1f61505b74aa52a3c75e6791800e574	not-for-merge	'refs/changes/93/548293/3' of https://github.com/openstack/puppet-panko
+71f5e42f5d5ec0b1d971560fb2c97466a423b059	not-for-merge	'refs/changes/96/471996/1' of https://github.com/openstack/puppet-panko
+8b88c20052091b29212cdfa7dad487b2af491507	not-for-merge	'refs/changes/97/543297/1' of https://github.com/openstack/puppet-panko
+c985f78e4b0ca2df104ba909136143393d04836e	not-for-merge	'refs/changes/98/477298/1' of https://github.com/openstack/puppet-panko
+eefeaffa7be41ca78a4ef4fb85d05ee2d55af47a	not-for-merge	'refs/changes/98/544598/1' of https://github.com/openstack/puppet-panko
+39c49094947ace2577e4e6b3d692ab9193e2466c	not-for-merge	'refs/changes/99/460599/1' of https://github.com/openstack/puppet-panko
+9675ab2ed2f70b25df1d01c8641e8f2e01bc11d7	not-for-merge	branch 'master' of https://github.com/openstack/puppet-panko
+8d0f7c24679db515b444f2380f80393c0a15fd71	not-for-merge	branch 'stable/ocata' of https://github.com/openstack/puppet-panko
+994de29dfa22aa18578d4efe7ca56b255073928c	not-for-merge	branch 'stable/pike' of https://github.com/openstack/puppet-panko
+b57a505d4dbe836d115a0e0b60877e85fe6d7a91	not-for-merge	branch 'stable/queens' of https://github.com/openstack/puppet-panko
+ccab5c95a5f8d801226774de987ca4c367cbcbf8	not-for-merge	branch 'stable/rocky' of https://github.com/openstack/puppet-panko
+896f1b5912858492b3d3fb099f17b2722c53c0e7	not-for-merge	'refs/notes/review' of https://github.com/openstack/puppet-panko
+5b25d1c66685d98f43dc14ac44ad8549eaa79340	not-for-merge	tag '10.2.0' of https://github.com/openstack/puppet-panko
+de1b08bcea3e0188f41b9c3955034390ed527893	not-for-merge	tag '10.3.0' of https://github.com/openstack/puppet-panko
+f185fab19da848d64e1f29995e627a04c31064eb	not-for-merge	tag '10.3.1' of https://github.com/openstack/puppet-panko
+919d4d037cf423d6846c73d6257e3fb1e8f74dfb	not-for-merge	tag '10.4.0' of https://github.com/openstack/puppet-panko
+354851c0cfe5ffa1a7fca8dc65a8eae02a04ce38	not-for-merge	tag '11.0.0' of https://github.com/openstack/puppet-panko
+c64e9bf52fce51e113fdd8d7ee0a6ad31d0b8d96	not-for-merge	tag '11.1.0' of https://github.com/openstack/puppet-panko
+1b3178c7d90db45d95a152b6b1410f262162e11b	not-for-merge	tag '11.2.0' of https://github.com/openstack/puppet-panko
+772c8396b46180c7cf3245c61cb6e7591e9ce9f9	not-for-merge	tag '11.3.0' of https://github.com/openstack/puppet-panko
+2ace2701dfeed995db8dc0e114a1087897cede0c	not-for-merge	tag '11.4.0' of https://github.com/openstack/puppet-panko
+18ff69144a799bf36d0b6a655b2a79238c0c4a0b	not-for-merge	tag '11.5.0' of https://github.com/openstack/puppet-panko
+dd8d7dab2c0bba7f79bad23872915a8835563365	not-for-merge	tag '11.6.0' of https://github.com/openstack/puppet-panko
+23a5a55749ed7fbe72f93eb32f6ce6fa22bd9cec	not-for-merge	tag '12.0.0' of https://github.com/openstack/puppet-panko
+c49d57c7228fad996aff9991701022eace613816	not-for-merge	tag '12.1.0' of https://github.com/openstack/puppet-panko
+e8968088d0aef840a1744e4fcc3cc7623e77ba60	not-for-merge	tag '12.2.0' of https://github.com/openstack/puppet-panko
+fe7754325bc8b9a2ea7f7ffd1a910306a0120115	not-for-merge	tag '12.3.0' of https://github.com/openstack/puppet-panko
+b4a3123bc58af52f787dfdd5db50bf35f22d6499	not-for-merge	tag '12.4.0' of https://github.com/openstack/puppet-panko
+5756dacae42da6b63c95c719ccb59fde310b8b83	not-for-merge	tag '13.0.0' of https://github.com/openstack/puppet-panko
+61070282238ab9149e51155e674e487413832d86	not-for-merge	tag '13.1.0' of https://github.com/openstack/puppet-panko
+e6e903152c610745a10c1a88f68baefe5eebb1ca	not-for-merge	tag '13.3.0' of https://github.com/openstack/puppet-panko
+1a9671b1da7170de3fe94f54ed791a85ffcfd2ed	not-for-merge	tag '13.3.1' of https://github.com/openstack/puppet-panko

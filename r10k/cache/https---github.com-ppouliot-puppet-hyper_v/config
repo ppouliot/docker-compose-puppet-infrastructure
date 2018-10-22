@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/ppouliot/puppet-hyper_v
+	fetch = +refs/*:refs/*
+	mirror = true

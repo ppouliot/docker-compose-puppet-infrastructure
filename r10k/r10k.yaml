@@ -6,8 +6,9 @@ sources:
     remote: 'git@github.com:ppouliot/puppet-control-rep'
     basedir: '/etc/puppetlabs/code/environments'
 git:
-    repositories:
+    rakuten:
     - remote: git@github.rakops.com:/raklab/puppet-rakuten_datacenters
-      private_key: '/root/.ssh/id_rsa'
+      provider: 'rugged'
+      private_key: '/etc/puppetlabs/puppet/secure/rakuten_ci.keys.d/rakuten.rsa'
 
 
