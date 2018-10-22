@@ -1,5 +1,13 @@
-:cachedir: '/etc/puppetlabs/r10k/cache'
-:sources:
-  :puppetfiles:
+---
+
+cachedir: '/etc/puppetlabs/r10k/cache'
+sources:
+  operations:
     remote: 'git@github.com:ppouliot/puppet-control-rep'
     basedir: '/etc/puppetlabs/code/environments'
+git:
+    repositories:
+    - remote: git@github.rakops.com:/raklab/puppet-rakuten_datacenters
+      private_key: '/root/.ssh/id_rsa'
+
+
