@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+docker-compose pull
+
 base_dir=`pwd`
 echo "Please enter the path to your sh key files"
 read sshkeys
@@ -17,4 +19,4 @@ docker exec -t puppet sh -c 'mv /etc/puppetlabs/code/environments/production /et
 docker cp ./hiera.yaml puppet:/etc/puppetlabs/hiera.yaml
 docker cp ./r10k/r10k.yaml puppet:/etc/puppetlabs/r10k/r10k.yaml
 docker cp $sshkeys puppet:/root/
-
+docker exec -t puppet sh -c 'cd /etc/puppetlabs/code/environments/production && r10k puppetfile install --verbose DEBUG2'
