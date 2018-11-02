@@ -12,7 +12,7 @@ docker-compose up -d ;
 sleep 300
 docker exec -t puppet sh -c 'puppetserver gem install msgpack'
 sleep 60
-docker exec -t puppet sh -c 'gem install generate-puppetfile ra10ke hiera-eyaml slack-notifier'
+docker exec -t puppet sh -c '/opt/puppetlabs/server/bin/puppetserver gem install msgpack CFPropertyList generate-puppetfile ra10ke hiera-eyaml slack-notifier minitar-cli'
 sleep 60
 docker exec -t puppet sh -c 'mkdir -p /etc/puppetlabs/r10k'
 docker exec -t puppet sh -c 'mv /etc/puppetlabs/code/environments/production /etc/puppetlabs/code/environments/production.orig'
