@@ -6,17 +6,30 @@ dynamically connects to and deploys a control repo via r10k.
 
 ## Basic Operations
 
+* Basic Startup without customization
+
+```
+docker-compose pull
+docker-compose up -d
+```
+
+* Basic Startup with customizations
+
+```
+bin/setup.sh
+```
+
 
 * List Registered puppet agent certificates
 
 ```
-docker exec -t puppet sh -c 'puppet cert list --all'
+docker exec -t puppet sh -c 'puppetserver ca list --all'
 ```
 
 * Clear a puppet agent certificate
 
 ```
-docker exec -t puppet sh -c 'puppet cert clean myserver.contoso.ltd'
+docker exec -t puppet sh -c 'puppetserver ca clean --certname myserver.contoso.ltd'
 ```
 
 * To Run r10k to update puppet modules

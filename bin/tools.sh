@@ -2,9 +2,8 @@
 
 base_dir=`pwd`
 
-git clone git@github.com:ppouliot/secure
-mkdir -p /opt/puppet
-cd /opt/puppet
+mkdir -p /opt/puppet-tools
+cd /opt/puppet-tools
 git clone https://github.com/rnelson0/puppet-generate-puppetfile
 git clone https://github.com/camptocamp/puppetfile-updater
 git clone https://github.com/dcosson/r10kdiff
