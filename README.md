@@ -4,6 +4,15 @@ Docker Compose to run puppet infrastructure with useful modules and a control re
 The goal of this is to stand up a working puppet infrastructure that
 dynamically connects to and deploys a control repo via r10k.
 
+Currently the following is deployed as part of this puppet stack.
+
+* puppetserver
+* puppet-agetnt
+* puppetdb
+* puppetboard
+* puppetexplorer
+* puppet-catalog-diff-viewer
+
 ## Basic Operations
 
 * Basic Startup without customization
