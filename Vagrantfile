@@ -43,7 +43,7 @@ Vagrant.configure(2) do |config|
   config.vm.provision :docker
 
   config.vm.provision :docker_compose,
-    compose_version: "1.11.2",
+    compose_version: "1.23.1",
     executable_install_path: "/home/core/docker-compose-1.11.2",
     executable_symlink_path: "/home/core/docker-compose",
     yml: "/home/core/puppet-infrastructure/docker-compose.yml",
