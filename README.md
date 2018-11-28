@@ -50,3 +50,4 @@ docker exec -t puppet sh -c 'cd /etc/puppetlabs/code/environments/production && 
 ### Additional Resources
 
 * [https://rnelson0.com/puppet-for-vsphere-admins/](https://rnelson0.com/puppet-for-vsphere-admins/)
+* [https://github.com/mattiasgeniar/puppet-pre-commit-hook](https://github.com/mattiasgeniar/puppet-pre-commit-hook)
