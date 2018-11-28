@@ -46,3 +46,7 @@ docker exec -t puppet sh -c 'puppetserver ca clean --certname myserver.contoso.l
 ```
 docker exec -t puppet sh -c 'cd /etc/puppetlabs/code/environments/production && r10k puppetfile install --verbose DEBUG2'
 ```
+
+### Additional Resources
+
+* [https://rnelson0.com/puppet-for-vsphere-admins/](https://rnelson0.com/puppet-for-vsphere-admins/)
