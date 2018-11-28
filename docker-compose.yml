@@ -47,6 +47,9 @@ services:
 
   puppetboard:
     image: puppet/puppetboard
+    environment:
+      - GRAPH_FACTS='architecture,puppetversion,osfamily'
+      - ENABLE_CATALOG=True
     ports:
       - 8000:8000
 
