@@ -5,3 +5,4 @@ puppetdb/
 puppetdb-postgres/
 secure
 files/
+r10k/cache
