@@ -66,3 +66,12 @@ services:
     volumes:
       - ./puppet-catalog-diff-viewer:/data
 
+  watchtower:
+    image: v2tec/watchtower
+    container_name: watchtower
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /root/.docker/config.json:/config.json
+    command: watchtower puppet puppetdbpostgres puppetdb puppetboard puppetexplorer puppet-catalog-diff-viewer --interval 30
+    restart: unless-stopped
+
