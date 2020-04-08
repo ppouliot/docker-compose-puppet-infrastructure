@@ -20,6 +20,7 @@ services:
     volumes:
       - ${VOLUME_ROOT:-.}/volumes/code:/etc/puppetlabs/code/
       - ${VOLUME_ROOT:-.}/volumes/puppet:/etc/puppetlabs/puppet/
+      - ${VOLUME_ROOT:-.}/volumes/r10k:/etc/puppetlabs/r10k/
       - ${VOLUME_ROOT:-.}/volumes/serverdata:/opt/puppetlabs/server/data/puppetserver/
     dns_search: ${DOMAIN:-internal}
     networks:
@@ -67,3 +68,54 @@ services:
       default:
         aliases:
          - puppetdb.${DOMAIN:-internal}
+
+  puppetboard:
+    hostname: puppetboard.${DOMAIN:-internal}
+    image: puppet/puppetboard
+    environment:
+      - GRAPH_FACTS='architecture,puppetversion,osfamily'
+      - ENABLE_CATALOG=True
+    ports:
+      - 8000:8000
+    depends_on:
+      - postgres
+      - puppet
+      - puppetdb
+    dns_search: ${DOMAIN:-internal}
+    networks:
+      default:
+        aliases:
+         - puppetboard.${DOMAIN:-internal}
+ 
+  puppetexplorer:
+    hostname: puppetexplorer.${DOMAIN:-internal}
+    image: puppet/puppetexplorer
+    ports:
+      - 8001:8001
+    read_only: true
+    depends_on:
+      - postgres
+      - puppet
+      - puppetdb
+    dns_search: ${DOMAIN:-internal}
+    networks:
+      default:
+        aliases:
+         - puppetexplorer.${DOMAIN:-internal}
+
+puppet-catalog-diff-viewer:
+    hostname: puppet-catalog-diff-viewer.${DOMAIN:-internal}
+    image: camptocamp/puppet-catalog-diff-viewer
+    ports:
+      - 8002:80
+    depends_on:
+      - postgres
+      - puppet
+      - puppetdb
+    volumes:
+      - ${VOLUME_ROOT:-.}/volumes/puppet-catalog-diff-viewer:/data
+    dns_search: ${DOMAIN:-internal}
+    networks:
+      default:
+        aliases:
+         - puppet-catalog-diff-viewer.${DOMAIN:-internal}
